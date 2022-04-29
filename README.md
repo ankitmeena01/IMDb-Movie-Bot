@@ -29,7 +29,7 @@
 * `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel.
 ### Optional Variables
 * `IMDB`: Imdb, the view of information when making True/False.
-* `SINGLE_BUTTON`: choose b/w [single or double buttons](https://github.com/josprojects/tgmoviebot/issues/1) True/False.
+* `SINGLE_BUTTON`: choose b/w [single or double buttons](https://github.com/ankitmeena01/tgmoviebot/issues/1) True/False.
 
 ## larger result buttons
 larger results will be better for reading.
@@ -64,7 +64,7 @@ You can deploy this bot anywhere.
 <br/>
 
 <p align="left">
-<a href="https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fjosprojects%2Ftgmoviebot"
+<a href="https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fankitmeena01%2Ftgmoviebot"
 ">
      <img height="30px" src="https://railway.app/button.svg">
   </a>
@@ -79,7 +79,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy to VPS</summary>
 <p>
 <pre>
-git clone https://github.com/josprojects/tgmoviebot
+git clone https://github.com/ankitmeena01/tgmoviebot
 # Install Packages
 pip3 install -r requirements.txt
 Edit info.py with variables as given below then run bot
@@ -119,7 +119,7 @@ python3 bot.py
 ```
 ## Support
 [![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/JOSPSupport)
-[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/JosProjects)
+[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/ankitmeena01)
 
 ## Credits 
 * [![Zaute-Km](https://img.shields.io/static/v1?label=Dingdi-Dev&message=devs&color=critical)](https://telegram.dog/zautebot)
